@@ -1,8 +1,8 @@
 # Problem
 
-## Calculate Special Bonus
+## Swap Salary
 
 #### Question Link:
-https://leetcode.com/problems/calculate-special-bonus/
+https://leetcode.com/problems/swap-salary/
 
 #### Other Links
